@@ -4,7 +4,7 @@
 
 **Diagram:**
 
-![Resource Service Diagram](./resource-service-diagram.png)
+![resourcemodule](https://github.com/user-attachments/assets/6995d5fa-f7b5-4e35-bf15-cb343e2f6c90)
 
 **Database:**
 
