@@ -4,3 +4,9 @@ psycopg2-binary
 whitenoise
 dj-database-url
 python-decouple
+random
+json
+redis
+asgiref==3.7.2
+beautifulsoup4==4.12.2
+requests==2.31.0
